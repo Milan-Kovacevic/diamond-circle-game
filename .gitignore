@@ -2,3 +2,7 @@
 /out/
 /log-info/
 /simulation-results/
+
+# Custom .gitignore attributes
+.idea/
+Diamond Circle.iml
