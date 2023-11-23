@@ -4,5 +4,7 @@
 /simulation-results/
 
 # Custom .gitignore attributes
-.idea/
-Diamond Circle.iml
+/.idea/
+diamond-circle-game.iml
+/simulation-results
+/log-info
